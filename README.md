@@ -13,6 +13,11 @@ Installation was done but pulling the code from GITLAB and doing a git clone to 
 
 ## Usage
 To use the page clink the 3 links at the top of the page to navigate farther in the webpage. Also look at the tab to see the name of the company. 
+'''md
+![alt text](assets/images/Screen%20Shot%202022-10-15%20at%202.18.23%20PM%20(2).png)
+'''
+'''md
+![alt text](assets/images/Screen%20Shot%202022-10-15%20at%202.19.05%20PM.png)
 
 ## Credits
 I collaborated with my Teacher's Asistants in class, used our office hours and specifically worked with Yon Bermudez to diagnose and rework some code that wasn't functioning correctly. I also used develop.moziila.org mulitple times to resolve issues I ran into also this site helped me with finding correct terms for symantic elements.  
